@@ -1,1 +1,5 @@
-# final_project_robotics
+# Robot Project
+
+📄 **Teacher Instructions (PDF):**
+[Here](main.pdf)
+# We Pick Project A
